@@ -1,1 +1,2 @@
-# Branch - yyyy-MM-dd-BracnhName
+### Rule
+Branch - yyyy-MM-dd-BracnhName
